@@ -1,0 +1,14 @@
+Prompts de imagem para substituir os espaços ilustrativos por arquivos locais JPG (16:9 para hero, 4:3 para as demais fotos). Estilo: foto realista de celular, amadora, luz natural, leve imperfeição, ambiente real, sem texto, logotipo, marca, placa legível, rosto em destaque, pose de catálogo, estúdio ou mãos deformadas.
+
+hero.jpg: Wide horizontal candid smartphone photo of a residential roof gutter being inspected and cleared of dry leaves, ordinary Brazilian home exterior, natural daylight, no prominent person, darker uncluttered area on the left for white headline overlay.
+sobre.jpg: 4:3 candid phone photo of a residential rain gutter with a small amount of leaves being carefully removed, simple bucket and gloves nearby, ordinary home exterior, no identifiable person.
+limpeza-de-calhas.jpg: 4:3 realistic phone photo close to an aluminum roof gutter while dry leaves are removed with a simple hand scoop, roof edge and home context visible, safe work conditions.
+limpeza-de-caixa-dagua.jpg: 4:3 realistic phone photo looking into a household water tank during routine cleaning, plain brush and minimal residue, daylight at access opening, no chemical container or person in confined space.
+limpeza-de-caixa-de-gordura.jpg: 4:3 realistic phone photo of an open residential grease trap in a utility area during maintenance, neutral bucket and simple tool, gloved hands only, clean and documentary.
+
+Imagens geradas e incluídas no projeto como arquivos JPG locais (os endereços gerenciados originais servem apenas como referência de origem):
+hero.jpg: /img/hero.jpg
+sobre.jpg: /img/sobre.jpg
+limpeza-de-calhas.jpg: /img/limpeza-de-calhas.jpg
+limpeza-de-caixa-dagua.jpg: /img/limpeza-de-caixa-dagua.jpg
+limpeza-de-caixa-de-gordura.jpg: /img/limpeza-de-caixa-de-gordura.jpg

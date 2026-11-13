@@ -1,0 +1,56 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "title": "Início"
+    },
+    {
+      "path": "/servicos/limpeza-de-calhas/",
+      "title": "Limpeza de calhas"
+    },
+    {
+      "path": "/servicos/limpeza-de-caixa-dagua/",
+      "title": "Limpeza de caixa d’água"
+    },
+    {
+      "path": "/servicos/limpeza-de-caixa-de-gordura/",
+      "title": "Limpeza de caixa de gordura"
+    },
+    {
+      "path": "/bairros/centro/",
+      "title": "Centro"
+    },
+    {
+      "path": "/bairros/jardim-botanico/",
+      "title": "Jardim Botânico"
+    },
+    {
+      "path": "/bairros/nova-alianca/",
+      "title": "Nova Aliança"
+    },
+    {
+      "path": "/bairros/vila-tiberio/",
+      "title": "Vila Tibério"
+    },
+    {
+      "path": "/bairros/bonfim-paulista/",
+      "title": "Bonfim Paulista"
+    },
+    {
+      "path": "/bairros/campos-eliseos/",
+      "title": "Campos Elíseos"
+    },
+    {
+      "path": "/sobre/",
+      "title": "Sobre"
+    },
+    {
+      "path": "/perguntas-frequentes/",
+      "title": "Perguntas frequentes"
+    },
+    {
+      "path": "/politica-de-privacidade/",
+      "title": "Política de privacidade"
+    }
+  ]
+}

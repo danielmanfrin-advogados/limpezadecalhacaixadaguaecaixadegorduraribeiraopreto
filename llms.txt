@@ -1,0 +1,37 @@
+# Limpeza de Calhas e Caixas em Ribeirão Preto
+
+Limpeza de calhas, caixa d’água e caixa de gordura em Ribeirão Preto, com informações para solicitar orçamento diretamente ao prestador parceiro.
+
+## Serviços
+- [Limpeza de calhas](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/servicos/limpeza-de-calhas/): Remoção de folhas e resíduos acumulados em calhas e pontos de escoamento. O acesso, a condição do telhado e o descarte devem ser combinados com o prestador.
+- [Limpeza de caixa d’água](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/servicos/limpeza-de-caixa-dagua/): Limpeza de reservatórios de água com avaliação de acesso, condição e procedimento. Confirme com o prestador os produtos e cuidados compatíveis com o uso da água.
+- [Limpeza de caixa de gordura](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/servicos/limpeza-de-caixa-de-gordura/): Retirada de gordura e resíduos acumulados em caixa residencial ou comercial. Informe o tamanho, o acesso e o tipo de imóvel para o prestador avaliar o pedido.
+
+## Bairros
+- [Centro](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/bairros/centro/)
+- [Jardim Botânico](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/bairros/jardim-botanico/)
+- [Nova Aliança](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/bairros/nova-alianca/)
+- [Vila Tibério](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/bairros/vila-tiberio/)
+- [Bonfim Paulista](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/bairros/bonfim-paulista/)
+- [Campos Elíseos](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/bairros/campos-eliseos/)
+
+## Páginas institucionais
+- [Sobre](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/sobre/)
+- [Perguntas frequentes](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/perguntas-frequentes/)
+- [Política de privacidade](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/politica-de-privacidade/)
+
+## Perguntas e respostas
+### Quando devo limpar as calhas?
+A necessidade depende do acúmulo de folhas e resíduos, das condições do telhado e do escoamento. Se houver transbordamento ou sujeira visível, descreva o que observou e confirme com o prestador se é necessária limpeza ou outra avaliação.
+
+### O que devo informar para limpar a caixa d’água?
+Informe o bairro, a capacidade aproximada, o local e as condições de acesso, além da última limpeza se souber. Pergunte ao prestador quais produtos e procedimentos serão usados e como ficará o abastecimento.
+
+### Para que serve a caixa de gordura?
+Ela retém parte da gordura e dos sólidos que vêm da pia antes que sigam pela tubulação. O uso e a capacidade influenciam a necessidade de limpeza. Confirme com o prestador a condição e o destino dos resíduos.
+
+### Preciso estar no imóvel durante o serviço?
+Isso depende do acesso e das regras do imóvel. Combine diretamente com o prestador quem autorizará a entrada, se alguém precisa acompanhar e se há áreas comuns que exigem coordenação.
+
+### Como peço um orçamento?
+Clique em WhatsApp ou Ligue agora e informe o bairro, o serviço desejado, o tipo de imóvel e as condições de acesso. Para caixa d’água ou de gordura, acrescente a capacidade aproximada se souber. O prestador confirma valores e condições no atendimento.

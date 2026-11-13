@@ -1,0 +1,29 @@
+DOMINIO_BASE=https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app
+
+PORTAL: Limpeza de Calhas e Caixas em Ribeirão Preto
+SLUG DO REPOSITÓRIO: limpezadecalhacaixadaguaecaixadegorduraribeiraopreto
+DATA DE ATUALIZAÇÃO: 13/11/2026
+
+1. TROCAR WHATSAPP E TELEFONE
+Abra config.js. Edite whatsapp e telefone usando apenas dígitos no formato 55 + DDD + número, por exemplo 5516999999999. O arquivo é centralizado: os botões de todas as páginas passam a usar os números configurados. Troque os dois campos, salve e publique. Não altere número em cada HTML.
+
+2. PUBLICAR NA VERCEL
+Envie a raiz deste projeto para um repositório Git com o nome limpezadecalhacaixadaguaecaixadegorduraribeiraopreto. Na Vercel, importe o repositório e escolha Framework Preset: Other. Use Build Command: npm run build e Output Directory: dist. O vercel.json já declara esses valores, cleanUrls e trailingSlash. Não instale bibliotecas nem crie package-lock.json. O build usa apenas recursos nativos do Node e copia as páginas estáticas para dist.
+
+3. ATUALIZAR O SCRIPT DA PLANILHA
+Na planilha Google, abra Extensões > Apps Script. Substitua o conteúdo de Code.gs pelo arquivo apps-script/Code.gs e salve. Execute a função setup() uma vez e aceite as permissões solicitadas pelo Google. Para atualizar a implantação já existente, abra Implantar > Gerenciar implantações, edite a implantação existente, escolha Nova versão e implante. Assim a URL /exec permanece igual. Configure o acesso como Qualquer pessoa. O endpoint já está no config.js e no tracker.js registra cliques de WhatsApp e telefone.
+
+4. RELATÓRIO POR SITE
+Na aba Cliques, use Inserir > Tabela dinâmica. Coloque Site em Linhas e Botão em Valores, resumido por CONTAGEM, para comparar os contatos por site e ação. O cabeçalho do Code.gs chama-se Botão (não Ação). O script também cria uma aba Resumo com consultas básicas.
+
+5. GOOGLE SEARCH CONSOLE
+Cadastre o domínio ou prefixo de URL correspondente a DOMINIO_BASE no Google Search Console e conclua a verificação de propriedade. Depois da publicação, envie o sitemap em https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/sitemap.xml. Verifique se a versão publicada responde pelas 13 páginas e se o domínio canônico escolhido é o mesmo usado no arquivo sitemap.xml. Se usar domínio próprio, substitua o domínio antigo pelo novo nos links canonical e Open Graph dos 13 HTML, em sitemap.xml, robots.txt, llms.txt e na variável DOMINIO_BASE deste arquivo; depois rode npm run build novamente.
+
+6. PERFIL DA EMPRESA NO GOOGLE
+Considere criar um Perfil da Empresa no Google quando houver um prestador real com endereço elegível e confirmado. Não invente endereço para este portal, que não publica endereço físico. Siga as regras atuais do Google para a categoria e área atendida do prestador.
+
+7. IMAGENS
+Os cinco arquivos JPG estão incluídos em img/: hero.jpg (1600 × 900), sobre.jpg e um arquivo por serviço (1000 × 750). Cada foto está compactada para cerca de 150 KB ou menos e já é carregada por caminho local nas páginas. img/PROMPTS.txt guarda os prompts usados como referência. Quando o prestador enviar fotos reais, basta substituir os arquivos mantendo os mesmos nomes. Um erro de carregamento nas fotos de conteúdo exibe img/placeholder.svg. As fotos atuais são ilustrativas e não representam o prestador.
+
+8. ESTRUTURA E AVISO
+Cada página possui seu próprio index.html e o conteúdo está no HTML para indexação sem JavaScript. Os números e o endpoint estão centralizados em config.js. tracker.js envia somente os campos descritos na política de privacidade quando alguém clica em um botão de contato. O rodapé contém o aviso legal obrigatório. Não inclua endereço, CNPJ, depoimentos ou alegações que não tenham sido confirmadas pelo prestador.
