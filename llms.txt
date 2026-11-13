@@ -3,22 +3,22 @@
 Limpeza de calhas, caixa d’água e caixa de gordura em Ribeirão Preto, com informações para solicitar orçamento diretamente ao prestador parceiro.
 
 ## Serviços
-- [Limpeza de calhas](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/servicos/limpeza-de-calhas/): Remoção de folhas e resíduos acumulados em calhas e pontos de escoamento. O acesso, a condição do telhado e o descarte devem ser combinados com o prestador.
-- [Limpeza de caixa d’água](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/servicos/limpeza-de-caixa-dagua/): Limpeza de reservatórios de água com avaliação de acesso, condição e procedimento. Confirme com o prestador os produtos e cuidados compatíveis com o uso da água.
-- [Limpeza de caixa de gordura](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/servicos/limpeza-de-caixa-de-gordura/): Retirada de gordura e resíduos acumulados em caixa residencial ou comercial. Informe o tamanho, o acesso e o tipo de imóvel para o prestador avaliar o pedido.
+- [Limpeza de calhas](https://limpezadecalhas.vercel.app/servicos/limpeza-de-calhas/): Remoção de folhas e resíduos acumulados em calhas e pontos de escoamento. O acesso, a condição do telhado e o descarte devem ser combinados com o prestador.
+- [Limpeza de caixa d’água](https://limpezadecalhas.vercel.app/servicos/limpeza-de-caixa-dagua/): Limpeza de reservatórios de água com avaliação de acesso, condição e procedimento. Confirme com o prestador os produtos e cuidados compatíveis com o uso da água.
+- [Limpeza de caixa de gordura](https://limpezadecalhas.vercel.app/servicos/limpeza-de-caixa-de-gordura/): Retirada de gordura e resíduos acumulados em caixa residencial ou comercial. Informe o tamanho, o acesso e o tipo de imóvel para o prestador avaliar o pedido.
 
 ## Bairros
-- [Centro](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/bairros/centro/)
-- [Jardim Botânico](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/bairros/jardim-botanico/)
-- [Nova Aliança](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/bairros/nova-alianca/)
-- [Vila Tibério](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/bairros/vila-tiberio/)
-- [Bonfim Paulista](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/bairros/bonfim-paulista/)
-- [Campos Elíseos](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/bairros/campos-eliseos/)
+- [Centro](https://limpezadecalhas.vercel.app/bairros/centro/)
+- [Jardim Botânico](https://limpezadecalhas.vercel.app/bairros/jardim-botanico/)
+- [Nova Aliança](https://limpezadecalhas.vercel.app/bairros/nova-alianca/)
+- [Vila Tibério](https://limpezadecalhas.vercel.app/bairros/vila-tiberio/)
+- [Bonfim Paulista](https://limpezadecalhas.vercel.app/bairros/bonfim-paulista/)
+- [Campos Elíseos](https://limpezadecalhas.vercel.app/bairros/campos-eliseos/)
 
 ## Páginas institucionais
-- [Sobre](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/sobre/)
-- [Perguntas frequentes](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/perguntas-frequentes/)
-- [Política de privacidade](https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/politica-de-privacidade/)
+- [Sobre](https://limpezadecalhas.vercel.app/sobre/)
+- [Perguntas frequentes](https://limpezadecalhas.vercel.app/perguntas-frequentes/)
+- [Política de privacidade](https://limpezadecalhas.vercel.app/politica-de-privacidade/)
 
 ## Perguntas e respostas
 ### Quando devo limpar as calhas?

@@ -1,4 +1,4 @@
-DOMINIO_BASE=https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app
+DOMINIO_BASE=https://limpezadecalhas.vercel.app
 
 PORTAL: Limpeza de Calhas e Caixas em Ribeirão Preto
 SLUG DO REPOSITÓRIO: limpezadecalhacaixadaguaecaixadegorduraribeiraopreto
@@ -17,7 +17,7 @@ Na planilha Google, abra Extensões > Apps Script. Substitua o conteúdo de Code
 Na aba Cliques, use Inserir > Tabela dinâmica. Coloque Site em Linhas e Botão em Valores, resumido por CONTAGEM, para comparar os contatos por site e ação. O cabeçalho do Code.gs chama-se Botão (não Ação). O script também cria uma aba Resumo com consultas básicas.
 
 5. GOOGLE SEARCH CONSOLE
-Cadastre o domínio ou prefixo de URL correspondente a DOMINIO_BASE no Google Search Console e conclua a verificação de propriedade. Depois da publicação, envie o sitemap em https://limpezadecalhacaixadaguaecaixadegorduraribeiraopreto.vercel.app/sitemap.xml. Verifique se a versão publicada responde pelas 13 páginas e se o domínio canônico escolhido é o mesmo usado no arquivo sitemap.xml. Se usar domínio próprio, substitua o domínio antigo pelo novo nos links canonical e Open Graph dos 13 HTML, em sitemap.xml, robots.txt, llms.txt e na variável DOMINIO_BASE deste arquivo; depois rode npm run build novamente.
+Cadastre o domínio ou prefixo de URL correspondente a DOMINIO_BASE no Google Search Console e conclua a verificação de propriedade. Depois da publicação, envie o sitemap em https://limpezadecalhas.vercel.app/sitemap.xml. Verifique se a versão publicada responde pelas 13 páginas e se o domínio canônico escolhido é o mesmo usado no arquivo sitemap.xml. Se usar domínio próprio, substitua o domínio antigo pelo novo nos links canonical e Open Graph dos 13 HTML, em sitemap.xml, robots.txt, llms.txt e na variável DOMINIO_BASE deste arquivo; depois rode npm run build novamente.
 
 6. PERFIL DA EMPRESA NO GOOGLE
 Considere criar um Perfil da Empresa no Google quando houver um prestador real com endereço elegível e confirmado. Não invente endereço para este portal, que não publica endereço físico. Siga as regras atuais do Google para a categoria e área atendida do prestador.
